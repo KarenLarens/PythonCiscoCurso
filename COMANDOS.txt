@@ -1,0 +1,5 @@
+EN CMD
+####PARA LA VERSION DE PYTHON
+py --version
+https://packaging.python.org/en/latest/tutorials/installing-packages/
+https://www.anaconda.com/download/success
