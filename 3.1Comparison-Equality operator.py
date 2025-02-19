@@ -108,6 +108,13 @@ else:
 
 
 
+x = 5
+y = 10
+
+if x > 2 and y < 15:
+    print("Ambas condiciones son verdaderas")  
+else:
+    print("Al menos una condición es falsa")
 
 
 
